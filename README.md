@@ -36,7 +36,7 @@
 - **Cluster Assignment**
     - assigning points to the nearest cluster plane
     - for each point, our goal is to determine the index of plane closest to it
-    - $|A_{i}w^{j}_{l(i)} -\gamma_{l(i)}^{j}| = min_{l = 1,2…k}|A_{i}w^{j}_{l}-\gamma_{l}^{j}|$,
+    - $|A_{i}w^{j}_{l(i)}-\gamma^{j}\_{l(i)}| = min_{l = 1,2…k}|A_{i}w^{j}_{l}-\gamma_{l}^{j}|$,
         
         where $l(i)$ is the index of closest plane for $A_i$
         
