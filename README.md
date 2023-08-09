@@ -17,7 +17,7 @@
 - The features we use are `Tumor Size` and `Lymph Node Status` , both normalised to have `0`mean and `1` standard deviation.
 - We have a total of `198` points in the dataset and we will be dividing them into `3` clusters.
 
-![dataset](img/dataset.png)
+![dataset](https://github.com/tanish1729/k-Plane-Clustering/blob/main/img/dataset.png)
 
 ### Notation
 
@@ -53,9 +53,9 @@
 - ************************************Finite Termination************************************
     - The kPC algorithm terminates in finite step at a locally optimal cluster assignment.
     
-    ![clustering](img/clustering.png)
+    ![clustering](https://github.com/tanish1729/k-Plane-Clustering/blob/main/img/clustering.png)
 
 ### Extra
 
 - Similar to k-means, we can use the “elbow method” to find the ideal number of clusters to use for our dataset
-![elbow](img/elbow.png)
+    ![elbow](https://github.com/tanish1729/k-Plane-Clustering/blob/main/img/elbow.png)
